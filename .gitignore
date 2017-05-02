@@ -99,3 +99,4 @@ ENV/
 
 # custom ignore
 .idea/
+config/ts_config.py

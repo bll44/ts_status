@@ -1,12 +1,12 @@
 # region Teamspeak server connection configuration
 # Teamspeak server hostname or IP address
-ts_host = "brady.ehumps.me"
+ts_host = "HOSTNAME/IP"
 # Teamspeak server query port number (default: 10011)
-ts_port = 10011
+ts_port = PORT
 # Teamspeak server query username (default: serveradmin)
-ts_user = "serveradmin"
+ts_user = "USERNAME"
 # Password for the teamspeak server query user
-ts_password = "DtPFpR2N"
+ts_password = "PASSWORD"
 # endregion
 
 # list of tuples containing hostname and IP for various usage throughout the application
