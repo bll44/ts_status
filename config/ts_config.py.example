@@ -10,4 +10,4 @@ ts_password = "PASSWORD"
 # endregion
 
 # list of tuples containing hostname and IP for various usage throughout the application
-host_list = [("brady.ehumps.me", 10011)]
+host_list = [("hostname/ip", port_number)] # ex: [("example.teamspeakserver.com", 10011)]
